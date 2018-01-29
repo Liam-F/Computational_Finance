@@ -4,4 +4,5 @@ This repository contains projects focusing on investigating simulations and comp
 1. Random Number Generations
 2. Monte Carlo Simulations
 3. Simulation of Stochastic Processes, discretization schemes 
+
 (Ongoing)
